@@ -1,0 +1,184 @@
+{
+    "basics": {
+      "name": "Brandon Aguilar",
+      "label": "Ingeniero Informático",
+      "image": "/foto.webp",
+      "email": "brandonam2017@hotmail.com",
+      "phone": "+57 3136585521",
+      "url": "https://johndoe.com",
+      "summary": "I’m a computer engineering, which allows me to perform correctly in the development of suitable and logicalsolutions, with knowledge in the area of development andprogramming, with a high level of commitment, goodcommunication skills, positive attitude, creative,responsible, supportive, dynamic, with moral and ethical principles.",
+      "location": {
+        "address": "Calle 57 #68c 65",
+        "postalCode": "054051",
+        "city": "Bello",
+        "countryCode": "+57",
+        "region": "Colombia"
+      },
+      "profiles": [{
+        "network": "LinkedIn",
+        "username": "Brandon Stewart Aguilar Mora",
+        "url": "https://www.linkedin.com/in/brandon-stewart-aguilar-mora-2089bb219"
+      },{
+        "network": "GitHub",
+        "username": "brandonaguilarmora",
+        "url": "https://github.com/brandonaguilarmora"
+      }]
+    },
+    "work": [
+      {
+        "name": "Politécnico Colombiano Jaime Isaza Cadavid",
+        "position": "Programador",
+        "url": "https://www.politecnicojic.edu.co",
+        "startDate": "2023-02-06",
+        "endDate": "2023-06-16",
+        "summary": "Desarrolle eventos y espacios virtuales en realidad virtual",
+        "highlights": [
+          "Implemente eventos creados en c#",
+          "Implemented agile methodologies, improving team productivity by 25%",
+          "Developed a product roadmap that aligned with company growth objectives"
+        ]
+      }
+    ],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "University",
+      "url": "https://www.politecnicojic.edu.co",
+      "area": "Ingeniero Informático",
+      "studyType": "Carrera Universitaria",
+      "startDate": "2018-02-02",
+      "endDate": "2023-06-06",
+      "score": "3.6",
+      "courses": [
+        "Bases de datos",
+        "Redes",
+        "Cloud",
+        "Desarrollo web"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "Javascript",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },{
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },{
+      "name": "CSS - Tailwind",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },{
+      "name": "Python",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },{
+      "name": "Unity 3D",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },{
+      "name": "Node",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },{
+      "name": "MongoDB",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    "languages": [{
+      "language": "English",
+      "fluency": "B2"
+    },{
+      "language": "Español",
+      "fluency": "Nativo"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Hoja de vida minimalista",
+      "startDate": "2024-01-01",
+      "endDate": "2024-01-07",
+      "description": "Hoja de vida minimalista",
+      "highlights": [
+        "Util para imprimir",
+        "Facil de agregar elementos cambiando un .json"
+      ],
+      "url": "https://project.com/"
+    },{
+      "name": "Montana Speedy Title",
+      "startDate": "2024-01-01",
+      "endDate": "2024-01-07",
+      "description": "Pagina para la empresa montana speedy title",
+      "highlights": [
+        "Base de datos no sql desplegada",
+        "Formulario",
+        "Responsive"
+      ],
+      "url": "https://montanaspeedytitle.com"
+    }]
+  }
