@@ -37,6 +37,47 @@
           "Implemented agile methodologies, improving team productivity by 25%",
           "Developed a product roadmap that aligned with company growth objectives"
         ]
+      },{
+        "name": "Montana Speedy Title Hardin-Estados Unidos ",
+        "position": "Desarrollador Backend",
+        "url": "https://montanaspeedytitle.com/",
+        "startDate": "2023-12-06",
+        "endDate": "2024-06-16",
+        "summary": "Implemente una arquitectura cliente servidor para la empresa montana speedy title, usando nodejs y mongoDB, manteniendo la base de datos en la nube, para que el cliente pueda acceder a la información desde cualquier lugar y dispositivo.",
+        "highlights": [
+          "Desarrollar rutas usando Express Framework",
+          "Desarrollar e implementar la base de datos con MongoDB",
+          "Desarrollar usando la arquitectura cliente servidor"
+        ]
+      },
+      {
+        "name": "Politécnico Colombiano Jaime Isaza Cadavid",
+        "position": "Docente Mediatecnica",
+        "url":"https://www.politecnicojic.edu.co",
+        "startDate": "2025-02-06",
+        "endDate": "2025-04-16",
+        "summary": "Dicte clases de desarrollo de pensamiento analítico y descriptivo, principios básicos de programación, ciclo de vida del software y asesoría de proyectos de grado.",
+        "highlights": [
+          "• Dictar modulo Desarrollo de pensamiento analitico y descriptivo. ",
+          "• Desarrollar modulo principios básicos de programación  ",
+          "• Desarrollar modulo Ciclo de vida del software  ",
+          "• Desarrollar y asesorar proyectos de grado  "
+        ]
+      },
+      {
+        "name": "Spider Security",
+        "position": "Desarrollador Full Stack",
+        "url":"https://spidersecurity.co/",
+        "startDate": "2025-02-06",
+        "endDate": "2025-04-16",
+        "summary": "Desarrollador Full Stack con experiencia en PHP, Laravel y metodologías ágiles, a la vez que coordinana a un equipo de desarrollo y tenia roles de PM y PO.",
+        "highlights": [
+          "• Desarrollar modulos que generen soluciones en PHP usando codeigniter4 ",
+          "• Desarrollar modulos que generen soluciones en PHP usando Laravel con liveware ",
+          "• Orquestar reuniones con metodologia agil scrum ",
+          "• Realización de pruebas antes de despliegue ",
+          "• Implementar documentación acorde al ISO 9001 "
+        ]
       }
     ],
     "volunteer": [{
